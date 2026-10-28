@@ -5,6 +5,14 @@
     <link>https://github.com/The-Mathologists/cabinlight-releases</link>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Wed, 28 Oct 2026 00:39:09 GMT</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/The-Mathologists/cabinlight-releases/releases/download/v1.0.2/CabinLight-1.0.2.zip" length="2256785" type="application/octet-stream" sparkle:edSignature="OUMQIQovtHefuxM+g8n/ccLoao00b0nerNtS1pdaM/skMWkjI4fYmhJYzeHMNjRXQZminGbvXuXx0Kq8cYtFCg=="/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Tue, 27 Oct 2026 02:56:23 GMT</pubDate>
       <sparkle:version>12</sparkle:version>
